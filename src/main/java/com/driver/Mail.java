@@ -19,23 +19,24 @@ public class Mail {
         return date;
     }
 
-    public void setDate(Date date) {
-        this.date = date;
-    }
+//    public void setDate(Date date) {
+//        this.date = date;
+//    }
 
     public String getSender() {
         return sender;
     }
 
-    public void setSender(String sender) {
-        this.sender = sender;
-    }
+//    public void setSender(String sender) {
+//        this.sender = sender;
+//    }
 
     public String getMessage() {
         return message;
     }
 
-    public void setMessage(String message) {
-        this.message = message;
-    }
+//    public void setMessage(String message) {
+//
+//        this.message = message;
+//    }
 }
